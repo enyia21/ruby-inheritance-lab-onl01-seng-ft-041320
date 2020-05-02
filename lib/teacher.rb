@@ -1,4 +1,4 @@
-require lib/user.#!/usr/bin/env ruby -wKU
+require lib/user.rb
 
 class Teacher < User
 
